@@ -26,7 +26,7 @@
         <h1 style= "font-size:80px; text-align: center ;"> Homepage</h1>
         <br></br> 
          <br></br>
-          <form action="index.html">
+          <form action="CV.html">
               <center>  
               <input class="button" type="submit" value="Curriculum Vitae">
               </center>
