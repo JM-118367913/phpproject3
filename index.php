@@ -26,7 +26,7 @@
         <h1 style= "font-size:80px; text-align: center ;"> Homepage</h1>
         <br></br> 
          <br></br>
-          <form action="CV.html">
+          <form action="index.html">
               <center>  
               <input class="button" type="submit" value="Curriculum Vitae">
               </center>
@@ -41,10 +41,13 @@
              <input class="button" type="submit" value="Consulting Services">
            </center>
              </form>
-         
+         <form action="https://phpproject3-jm118367913.herokuapp.com/">
+             <center>  
+             <input class="button" type="submit" value="Heroku Link">
+           </center>
+             </form>
         
         
     
     </body>
 </html>
-
